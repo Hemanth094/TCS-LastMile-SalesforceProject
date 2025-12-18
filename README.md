@@ -1,4 +1,4 @@
-# MediCare — CRM
+# MedCare — CRM
 
 A compact Salesforce Lightning application that helps healthcare teams manage doctor availability, schedule and track patient appointments, and handle follow-ups.
 
